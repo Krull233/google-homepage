@@ -23,7 +23,21 @@
   box-shadow: 0px 0px 2px 0px #c8c8c8;
 }
 
+#SearchBar {
+  width: 582px;
+  background: #fff;
+  display: flex;
+  border: 1px solid #d0d0d0;
+  border-radius: 24px;
+  height: 44px;
+  margin: 0 auto;
+}
+
+#SearchBar:hover {
+  box-shadow: 0px 0px 2px 0px #d0d0d0;
+  cursor: text;
+}
+
 /* 
-TODO: Make my buttons look like Googles buttons
 TODO: Make the SearchBar look like Googles
 */
