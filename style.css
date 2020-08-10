@@ -44,6 +44,14 @@ main {
   padding-bottom: 25px;
 }
 
+.GitHub {
+  text-align: center;
+  position: absolute;
+  left: 830px;
+  color: blue;
+  text-decoration: underline;
+}
+
 .button {
   background-color: #f2f2f2;
   border: 1px solid #f2f2f2;
