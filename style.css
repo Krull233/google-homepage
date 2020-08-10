@@ -1,4 +1,38 @@
+* {
+  font-family: Arial, Sans-Serif;
+  font-size: 13px;
+}
+
+a {
+  opacity: 0.75;
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.material-icons {
+  size: 2em;
+  opacity: 0.55;
+  margin-left: 15px;
+}
+
+.NavLeft {
+  display: inline;
+}
+
+.NavRight {
+  float: right;
+}
+
+.spaced {
+  margin-left: 15px;
+}
+
 body {
+  margin: 16px;
 }
 
 #GoogleLogo {
@@ -42,7 +76,10 @@ body {
 }
 
 /* 
-TODO: Fix the search bar
+TODO: Resixe search bar
+TODO: center Google Logo
+TODO: create sign in button
+TODO: create footer
 TODO: add nav bars to the top and bottom of page
 TODO: Make the SearchBar look like Googles
 */
